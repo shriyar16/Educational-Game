@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Machine
+comment0.text=\r\n\ Machine\ class\r\n\ \r\n\ @author\ Micheal\ Kolling\r\n\ @author\ Amjad\ Altadmri\ \r\n\ @version\ 1.4\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ move\ the\ Machine\ and\ fire\ in\ response\ to\ users'\r\n\ pressed\ keys.\ This\ method\ is\ called\ whenever\ the\r\n\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ checkKeys()
+comment2.text=\r\n\ CheckKeys\ -\ checks\ if\ the\ user\ pressed\ any\ of\ the\ specified\r\n\ keys,\ then\ turn\ or\ fire\ the\ Machine\ accordingly\r\n
+comment3.params=
+comment3.target=void\ fire()
+comment3.text=\r\n\ Fire\ -\ shots\ the\ Blob\ in\ the\ same\ direction\ of\ the\r\n\ Machine,\ playing\ a\ suitable\ sound.\ \r\n
+numComments=4
