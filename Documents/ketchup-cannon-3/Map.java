@@ -35,7 +35,6 @@ import javax.imageio.ImageIO;
 public class Map {
 
     private final String urlBase = "http://maps.googleapis.com/maps/api/staticmap?sensor=false";
-    //private final String apiKey = "&key=AIzaSyDcxkCvybN0Uh_fDtf5vElyP-CoPXjI8-Q";
     //private final String apiKey = "key goes here";
     private int zoom;
     private int width;
