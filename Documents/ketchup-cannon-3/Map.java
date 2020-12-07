@@ -36,7 +36,7 @@ public class Map {
 
     private final String urlBase = "http://maps.googleapis.com/maps/api/staticmap?sensor=false";
     //private final String apiKey = "&key=AIzaSyDcxkCvybN0Uh_fDtf5vElyP-CoPXjI8-Q";
-    private final String apiKey = "&key=AIzaSyAdEq1S49mk8znPpniK_X0siPUvdYpPxos";
+    //private final String apiKey = "key goes here";
     private int zoom;
     private int width;
     private int height;
